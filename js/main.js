@@ -2,6 +2,6 @@
 
 $(function() {
     $('.carousel').carousel ({
-        interval:5000
+        interval:2000
     });
 });
